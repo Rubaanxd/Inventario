@@ -11,7 +11,5 @@ Desarrollo de una interfaz web para implementacion en Inventario de MD.
 ## Tecnologías a Utilizar:
 - HTML
 - CSS
-- PHP o JS
-- Conectividad a MySQL
-
-Se tiene planeado expandirlo para conectarlo a una capa de servicios y de ahi al backend.
+- JS, Vue
+- Conectividad a BackEnd via WebService
